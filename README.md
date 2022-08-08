@@ -27,7 +27,7 @@ git clone https://github.com/mariareshetovska/film-rest-api-cache.git
 ```
 Make sure you already have Redis running on port 6379. Build and run the project.
 ```bash
-cd film-rest-api
+cd film-rest-api-cache
 go build
 ./film-rest-api
 ```
